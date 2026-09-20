@@ -1,6 +1,6 @@
 # 02.2. Якасьць рашэньня й якасьць выніку
 
-[Да зьместу](../README.md) · [Назад](02-1-chaos-and-uncertainty.md) · [Выніковая практыка](../practice/integration.md)
+[Да зьместу](../README.md) · [Назад](02-1-chaos-and-uncertainty.md) · [Далей](02-3-choosing-useful-model-under-uncertainty.md)
 
 ## Паўтарэньне
 
