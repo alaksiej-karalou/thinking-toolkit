@@ -1,6 +1,6 @@
 # 02.3. Выбар карыснай мадэлі ва ўмовах нявызначанасьці
 
-[Да зьместу](../README.md) · [Назад](02-2-decision-quality.md)
+[Да зьместу](../README.md) · [Назад](02-2-decision-quality.md) · [Далей](03-1-argumentation-basics.md)
 
 ## Паўтарэньне
 

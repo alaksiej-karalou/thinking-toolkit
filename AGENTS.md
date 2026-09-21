@@ -5,6 +5,7 @@
 This repository is a Belarusian-language critical-thinking workbook built from Markdown files. `README.md` is the course entry point and module index. Lesson notes live in `notes/`, named by sequence and topic, for example `notes/02-3-choosing-useful-model-under-uncertainty.md`. Keep shared terminology in `GLOSSARY.md`, source context in `SOURCES.md`, and contributor-facing policy in `CONTRIBUTING.md`. Obsidian workspace settings under `.obsidian/` are not course content.
 
 When adding a module, update the README contents and tool-selection table, previous/next navigation, and any relevant glossary or source notes.
+For an existing numbered draft, follow the repository skill at `.agents/skills/add-course-module/SKILL.md` to integrate it across the course.
 
 ## Development and Validation Commands
 
