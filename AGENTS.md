@@ -22,7 +22,7 @@ Also open every changed relative link. After renaming a file, search for its old
 
 Write course content in Belarusian, primarily classical orthography, and preserve established terminology. Use English method names at first mention when they improve searchability. Keep prose direct and instructional; distinguish facts, educational adaptations, and proposals. Define unfamiliar terms and add primary sources for new empirical claims.
 
-Use ATX headings (`#`, `##`), standard Markdown tables, and relative links. Name lesson files as `NN-N-descriptive-topic.md`: use the module number followed by a lowercase English kebab-case summary, rather than a number alone. A lesson should generally follow: review, purpose, core distinctions, example, pitfalls, practice, collapsible self-check, and mastery criterion. Keep one lesson usable in roughly 25–30 minutes.
+Use ATX headings (`#`, `##`), standard Markdown tables, and relative links. Name lesson files as `NN-N-descriptive-topic.md`: use the module number followed by a lowercase English kebab-case summary, rather than a number alone. A lesson should generally follow: purpose under `## Мэта`, core distinctions, example, pitfalls, practice, collapsible self-check, and mastery criterion. Keep one lesson usable in roughly 25–30 minutes.
 
 ## Testing Guidelines
 
