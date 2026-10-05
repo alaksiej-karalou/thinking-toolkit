@@ -1,6 +1,6 @@
 # 03.2 — Пасылкі й высновы
 
-[Да зьместу](../README.md) · [Назад](03-1-argumentation-basics.md)
+[Да зьместу](../README.md) · [Назад](03-1-argumentation-basics.md) · [Далей](03-3-reconstructing-arguments.md)
 
 ## Мэта
 
